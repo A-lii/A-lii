@@ -26,56 +26,58 @@ I build human‑centered software and believe in the right Design Thinking to ge
 
 ---
 
-## 🛠️ Tools & Technologies
 
-### 🔹 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+### ⚒️ Tools & Technologies
 
----
-
-### 🔹 Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+#### 🧠 Programming Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![XML](https://img.shields.io/badge/-XML-0B0B0B?style=flat&logo=w3c&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 
 ---
 
-### 🔹 Machine Learning / Deep Learning
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SVM](https://img.shields.io/badge/SVM-0078D7?style=for-the-badge&logo=code&logoColor=white)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-B7-6DB33F?style=for-the-badge&logo=tensorflow&logoColor=white)
-![VGG16](https://img.shields.io/badge/VGG16-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-00599C?style=for-the-badge&logo=keras&logoColor=white)
+#### 📚 Frameworks & Libraries  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+<!-- Custom ML Model mentions (no badges exist, so text only or you can design them later) -->
+![CNN](https://img.shields.io/badge/-CNN-FF6F00?style=flat&logo=google&logoColor=white)
+![SVM](https://img.shields.io/badge/-SVM-0A0A0A?style=flat&logo=github&logoColor=white)
+![LSTM](https://img.shields.io/badge/-LSTM-3E8EDE?style=flat&logo=google&logoColor=white)
+![EfficientNet](https://img.shields.io/badge/-EfficientNet_B7-orange?style=flat&logo=tensorflow&logoColor=white)
+![VGG16](https://img.shields.io/badge/-VGG16-red?style=flat&logo=google&logoColor=white)
 
 ---
 
-### 🔹 Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+#### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
-### 🔹 Mobile / App Development
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+#### 💻 Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/-MS_Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-0F52BA?style=flat&logo=stmicroelectronics&logoColor=white)
 
 ---
 
-### 🔹 Hardware / IoT
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![DHT11](https://img.shields.io/badge/DHT11%20Sensor-00A8E8?style=for-the-badge&logo=sensors&logoColor=white)
-![LCD](https://img.shields.io/badge/16x2%20LCD-228B22?style=for-the-badge&logo=arduino&logoColor=white)
-![Buzzer](https://img.shields.io/badge/Buzzer-FF4500?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-0066CC?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+#### 🔧 Hardware & Embedded  
+![STM32F103C8T6](https://img.shields.io/badge/-STM32F103C8T6-blue?style=flat&logo=stmicroelectronics&logoColor=white)
+![DHT11 Sensor](https://img.shields.io/badge/-DHT11_Sensor-green?style=flat&logo=arduino&logoColor=white)
+![LCD 16x2](https://img.shields.io/badge/-16x2_LCD-006400?style=flat&logo=arduino&logoColor=white)
+![Buzzer](https://img.shields.io/badge/-Buzzer-black?style=flat&logo=github&logoColor=white)
