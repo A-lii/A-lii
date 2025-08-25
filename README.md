@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 It's Maysha
 
 <!--
 **A-lii/A-lii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,10 +9,20 @@
 - 🤔 I’m seeking guidance on building **robust backend applications** for practical use cases.  
 - ⚡ Fun fact: I’m a unique mix of **logic, imagination, and empathy** — traits that shape both my code and creativity.  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](#)
--->
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://a-lii.github.io/Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](Linkedin.com/in/ali-maysha)
+-->
+### Find Me On  
+<p align="left">
+  <a href="https://a-lii.github.io/Resume.pdf" target="_blank">
+    <img src="https://img.icons8.com/material-outlined/24/ffffff/resume.png" alt="resume"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="24" height="24"/>
+  </a>
+</p>
+
 
 I build human‑centered software and believe in the right Design Thinking to get the best use cases for applications. 
 
