@@ -8,9 +8,9 @@
 - 👯 I’m looking to collaborate on **projects that create meaningful, real-world impact**.  
 - 🤔 I’m seeking guidance on building **robust backend applications** for practical use cases.  
 - ⚡ Fun fact: I’m a unique mix of **logic, imagination, and empathy** — traits that shape both my code and creativity.  
-
--->
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](#)
+-->
+
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://a-lii.github.io/Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](Linkedin.com/in/ali-maysha)
 
