@@ -10,9 +10,6 @@
 - ⚡ Fun fact: I’m a unique mix of **logic, imagination, and empathy** — traits that shape both my code and creativity.  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](#)
 -->
-
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://a-lii.github.io/maysha-resume.pdf
-)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-maysha-rodoshi)
 
 
