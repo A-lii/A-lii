@@ -13,7 +13,7 @@
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://a-lii.github.io/maysha-resume.pdf
 )
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ali-maysha-rodoshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-maysha-rodoshi)
 
 
 I build human‑centered software and believe in the right Design Thinking to get the best use cases for applications. 
