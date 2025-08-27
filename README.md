@@ -19,8 +19,8 @@ I build human‑centered software and believe in the right Design Thinking to ge
 
 ## 🌱 Currently Learning & Exploring
 - ASP.NET 
-- Large‑scale app design & clean architectures
-- ML for behavior/health—classification & sequence models
+- Large‑scale app design 
+- Machine Learning and Deep Learning
 - Frontend polish (React/Next.js) and UI/UX systems
 
 ---
