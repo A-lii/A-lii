@@ -28,4 +28,4 @@ I'm interested in tech that sits at the intersection of **people and problems** 
 ---
 
 ### find me
-[portfolio](https://A-lii.github.io/mayshas-portfolio) · open to collabs, internships, and good conversations ✦
+[portfolio](https://mayshas-portfolio.vercel.app/) · open to collabs, internships, and good conversations ✦
