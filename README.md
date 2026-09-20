@@ -10,8 +10,7 @@ CS student · builder of things that hopefully help people · occasional overthi
 
 ---
 
-I'm interested in tech that sits at the intersection of **people and problems** — mental health apps, accessibility tools, and anything that makes someone's day a little easier. Currently exploring ML and loving every confusing moment of it.
-
+I'm interested in tech that sits at the intersection of **people and problems** — mental health apps, accessibility tools, and anything that makes someone's day a little easier.
 > *"Still figuring it out, but building along the way."*
 
 ---
@@ -24,8 +23,3 @@ I'm interested in tech that sits at the intersection of **people and problems** 
 | [ASD Detection](https://github.com/A-lii/ASD-detection-using-Q-CHAT10-and-SRS) | ML pipeline using Q-CHAT10 & SRS screening data |
 | [Bookstagram](https://github.com/A-lii/Bookstagram) | Social-style book catalog with a clean UI |
 | [CNN vs ML](https://github.com/A-lii/Comparative-Analysis-Of-CNN-and-ML-Models-for-effective-Animal-Image-Classification) | Comparative study on animal image classification |
-
----
-
-### find me
-[portfolio](https://mayshas-portfolio.vercel.app/) · open to collabs, internships, and good conversations ✦
