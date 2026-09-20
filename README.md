@@ -1,11 +1,10 @@
 👋 Hi, I'm Rodoshi!
 =================
 
-CS student · builder of things that hopefully help people · occasional overthinker
+CS student · builder of things that hopefully help people 
 
 ![Android](https://img.shields.io/badge/Android-E1F5EE?style=flat&color=E1F5EE&labelColor=E1F5EE&logo=android&logoColor=085041)
 ![Python](https://img.shields.io/badge/Python-E6F1FB?style=flat&color=E6F1FB&labelColor=E6F1FB&logo=python&logoColor=0C447C)
-![ML](https://img.shields.io/badge/Machine%20Learning-EEEDFE?style=flat&color=EEEDFE)
 ![Java](https://img.shields.io/badge/Java-FAEEDA?style=flat&color=FAEEDA)
 
 ---
